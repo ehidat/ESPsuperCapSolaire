@@ -5,6 +5,8 @@
 #include <ArduinoOTA.h>
 #include "serveur.h"
 
+const char* ssid = "Bbox-74CB3A7E"; 
+const char* password = "H7fyyMSS79khtSvzRW";
 extern ESP8266WebServer serveurWeb;
 
 
